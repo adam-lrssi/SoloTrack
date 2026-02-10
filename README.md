@@ -1,6 +1,5 @@
 # 🚀 SoloTrack
 
-![SoloTrack Banner](https://via.placeholder.com/1200x400/0B0E14/A855F7?text=SoloTrack+Freelance+Simplified)
 
 > **"Libérez votre talent, SoloTrack s’occupe du reste."**
 
